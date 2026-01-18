@@ -8,7 +8,7 @@ This lightweight web application displays a basic AI chat and includes a button 
 
 - Send messages to OpenAI's GPT-4o-mini model
 - Hardcoded tool: `get_current_date` - returns the current date and time
-- Allows to connect to a MCP server with two tools: "add_numbers" and "greet".
+- Allows to connect to a MCP server with two tools: `add_numbers` and `greet`. The MCP server is started locally on a different port.
 
 ## Setup
 
