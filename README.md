@@ -1,4 +1,4 @@
-# Simple AI Chat MCP Connection
+# Simple AI chat with an MCP connection
 
 A simple AI chat interface connected to an MCP server.
 
