@@ -27,3 +27,6 @@ This lightweight web application displays a basic AI chat and includes a button 
 ## Note
 
 This application runs entirely in the browser. Your API key is only used to make requests to OpenAI and is not stored or sent anywhere else.
+
+
+![Screenshot](/docs/screenshot.png)
